@@ -4,7 +4,7 @@ body {
     color: #ffffff;
     margin: 0;
     padding: 20px;
-    background-image: url('imgs/background.PNG');
+    background-image: url('background.PNG');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;

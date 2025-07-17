@@ -1,0 +1,7 @@
+current probs:
+-not loading bg
+-bg needs tweaks
+-fix link color(done, waiting to commit)
+-(!)mobile probs
+really annoying bcs i cant intall git
+evisioner.github.io
